@@ -1,0 +1,112 @@
+{
+  "api": {
+    "key": "",
+    "user_agent": "",
+    "requests": 0
+  },
+  "window": {
+    "seed": 0,
+    "day": "1970-01-01",
+    "shift": 0,
+    "start": "1970-01-01T00:00:00Z",
+    "end": "1970-01-01T11:59:59Z"
+  },
+  "population": {
+    "requests": 0,
+    "n": 0,
+    "first_upload": "1970-01-01T00:00:00Z",
+    "last_upload": "1970-01-01T00:00:00Z",
+    "mime_types": {
+      "image/jpeg": 0,
+      "image/png": 0
+    }
+  },
+  "sample": {
+    "requests": 0,
+    "titles_per_request": 0,
+    "window_cost": 0,
+    "sample_cost": 0,
+    "n": 100
+  },
+  "files": {
+    "requests": 0,
+    "n": 20,
+    "bytes_downloaded": 0
+  },
+  "analysis": {
+    "comparisons": {
+      "date": {
+        "all_present_agree": 0,
+        "all_present_disagree": 0,
+        "two_present_agree": 0,
+        "two_present_disagree": 0,
+        "only_one": 0,
+        "none": 0
+      },
+      "latitude": {
+        "all_present_agree": 0,
+        "all_present_disagree": 0,
+        "two_present_agree": 0,
+        "two_present_disagree": 0,
+        "only_one": 0,
+        "none": 0
+      },
+      "longitude": {
+        "all_present_agree": 0,
+        "all_present_disagree": 0,
+        "two_present_agree": 0,
+        "two_present_disagree": 0,
+        "only_one": 0,
+        "none": 0
+      },
+      "altitude": {
+        "all_present_agree": 0,
+        "all_present_disagree": 0,
+        "two_present_agree": 0,
+        "two_present_disagree": 0,
+        "only_one": 0,
+        "none": 0
+      },
+      "author": {
+        "all_present_agree": 0,
+        "all_present_disagree": 0,
+        "two_present_agree": 0,
+        "two_present_disagree": 0,
+        "only_one": 0,
+        "none": 0
+      },
+      "make": {
+        "all_present_agree": 0,
+        "all_present_disagree": 0,
+        "two_present_agree": 0,
+        "two_present_disagree": 0,
+        "only_one": 0,
+        "none": 0
+      },
+      "model": {
+        "all_present_agree": 0,
+        "all_present_disagree": 0,
+        "two_present_agree": 0,
+        "two_present_disagree": 0,
+        "only_one": 0,
+        "none": 0
+      },
+      "software": {
+        "all_present_agree": 0,
+        "all_present_disagree": 0,
+        "two_present_agree": 0,
+        "two_present_disagree": 0,
+        "only_one": 0,
+        "none": 0
+      },
+      "orientation": {
+        "all_present_agree": 0,
+        "all_present_disagree": 0,
+        "two_present_agree": 0,
+        "two_present_disagree": 0,
+        "only_one": 0,
+        "none": 0
+      }
+    }
+  }
+}

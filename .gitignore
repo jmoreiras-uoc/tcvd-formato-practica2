@@ -1,0 +1,32 @@
+# No se deben subir cachés, descargas, datos en bruto, imágenes ni ficheros comprimidos
+# No s'han de pujar memòries cau, baixades, dades en brut, imatges ni fitxers comprimits
+cache/
+*.sqlite
+downloads/
+data/raw/
+*.jpg
+*.jpeg
+*.png
+*.tif
+*.tiff
+*.gif
+*.webp
+*.svg
+*.zip
+*.tar
+*.gz
+*.7z
+# git distingue mayúsculas en Linux/GitHub
+# git distingeix majúscules a Linux/GitHub
+*.JPG
+*.JPEG
+*.PNG
+*.TIF
+*.TIFF
+*.GIF
+*.WEBP
+*.SVG
+# Entorno de Python
+# Entorn de Python
+__pycache__/
+.venv/
